@@ -1,0 +1,8 @@
+{
+  "placeholder": "Enter user id here",
+  "submit": "Submit",
+  "error": {
+    "input": "You must input only digits!"
+  },
+  "title": "User"
+}

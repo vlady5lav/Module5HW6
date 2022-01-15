@@ -1,0 +1,33 @@
+{
+  "placeholder": {
+    "email": "Enter Email",
+    "password": "Enter Password",
+    "passwordConfirmation": "Confirm Password",
+    "firstName": "Enter First Name",
+    "lastName": "Enter Last Name",
+    "username": "Username",
+    "mobile": "380 50 123 45 67",
+    "age": "Choose your age",
+    "gender": "Choose your gender"
+  },
+  "genderType": {
+    "male": "Male",
+    "female": "Female"
+  },
+  "firstName": "First Name",
+  "lastName": "Last Name",
+  "username": "Username",
+  "mobile": "Mobile",
+  "age": "Age",
+  "gender": "Gender",
+  "agreeTerms": "Agree to terms and conditions",
+  "agreeTermsFeedback": "You must agree before submitting!",
+  "emailAddress": "Email Address",
+  "password": "Password",
+  "passwordConfirmation": "Password confirmation",
+  "submit": "Submit",
+  "success": "Success! Token is: {{token}}, ID is: {{id}}!",
+  "emailError": "Entered emails are not equal!",
+  "passwordError": "Entered passwords are not equal!",
+  "title": "Sign Up"
+}

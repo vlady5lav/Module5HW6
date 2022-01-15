@@ -1,0 +1,13 @@
+{
+  "placeholder": {
+    "email": "Enter Email",
+    "password": "Password"
+  },
+  "emailAddress": "Email Address",
+  "password": "Password",
+  "rememberMe": "Remember Me",
+  "invisible": "Invisible",
+  "submit": "Submit",
+  "success": "Success! Token is: {{token}}!",
+  "title": "Sign In"
+}

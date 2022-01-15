@@ -1,0 +1,8 @@
+{
+  "placeholder": "Enter product id here",
+  "submit": "Submit",
+  "error": {
+    "input": "You must input only digits!"
+  },
+  "title": "Product"
+}

@@ -1,0 +1,807 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "image": "assets/images/k3v2.webp",
+      "manufacturer": "Keychron",
+      "model": "K3 Version 2",
+      "modelDescription": "75% Layot 84 Keys Ultra-Slim Wireless Bluetooth/USB Wired Mechanical Keyboard with RGB LED Backlit, Low-Profile Keychron Optical Hot-Swappable Brown Switches, Aluminium Frame, Compatible with Mac & Windows",
+      "price": 2990,
+      "details": {
+        "type": ["Hot Swappable", "Low-Profile", "Multimedia", "Optical", "Slim", "TKL"],
+        "keysCount": "84",
+        "multimediaKeys": 12,
+        "layout": "ANSI",
+        "layoutPercent": 75,
+        "numpad": false,
+        "angleChange": {
+          "available": true,
+          "positionCount": 2
+        },
+        "connectivity": "Combined",
+        "interfaces": ["Bluetooth 5.1", "USB Type-C"],
+        "backlight": {
+          "available": true,
+          "color": "RGB",
+          "levels": 4
+        },
+        "switches": {
+          "type": "Optical",
+          "title": "Low Profile Keychron Optical",
+          "color": "Brown",
+          "hotSwappable": true
+        },
+        "battery": 1550,
+        "os": ["Windows", "Mac OS", "Android", "iOS"],
+        "frame": "Aluminium",
+        "keycaps": "ABS",
+        "color": "Gray",
+        "weight": 483,
+        "dimensions": {
+          "l": 116,
+          "w": 306,
+          "h": 22
+        },
+        "package": ["1 x Keyboard", "1 x USB-A to USB Type-C Cable", "1 x Keycap Puller", "1 x Switch Puller", "1 x Dust Cover", "1 x User Manual"]
+      }
+    },
+    {
+      "id": 2,
+      "image": "assets/images/k4v2.webp",
+      "manufacturer": "Keychron",
+      "model": "K4 Version 2",
+      "modelDescription": "96% Layot 100 Keys Full-Size Wireless Bluetooth/USB Wired Mechanical Keyboard with White LED Backlit, Gateron Mechanical Brown Switches, Aluminium Frame, Compatible with Mac & Windows",
+      "price": 3190,
+      "details": {
+        "type": ["Full-Size", "Hot Swappable", "Mechanical", "Multimedia"],
+        "keysCount": "100",
+        "multimediaKeys": 12,
+        "layout": "ISO",
+        "layoutPercent": 96,
+        "numpad": true,
+        "angleChange": {
+          "available": true,
+          "positionCount": 2
+        },
+        "connectivity": "Combined",
+        "interfaces": ["Bluetooth 5.1", "USB Type-C"],
+        "backlight": {
+          "available": true,
+          "color": "White",
+          "levels": 4
+        },
+        "switches": {
+          "type": "Mechanical",
+          "title": "Gateron Mechanical",
+          "color": "Brown",
+          "hotSwappable": false
+        },
+        "battery": 4000,
+        "os": ["Windows", "Mac OS", "Android", "iOS"],
+        "frame": "Aluminium",
+        "keycaps": "ABS",
+        "color": "Gray",
+        "weight": 483,
+        "dimensions": {
+          "l": 129,
+          "w": 376,
+          "h": 38
+        },
+        "package": ["1 x Keyboard", "1 x USB-A to USB Type-C Cable", "1 x Keycap Puller", "1 x User Manual"]
+      }
+    },
+    {
+      "id": 3,
+      "image": "assets/images/k3v2.webp",
+      "manufacturer": "Keychron",
+      "model": "K3 Version 2",
+      "modelDescription": "75% Layot 84 Keys Ultra-Slim Wireless Bluetooth/USB Wired Mechanical Keyboard with RGB LED Backlit, Low-Profile Keychron Optical Hot-Swappable Brown Switches, Aluminium Frame, Compatible with Mac & Windows",
+      "price": 2990,
+      "details": {
+        "type": ["Hot Swappable", "Low-Profile", "Multimedia", "Optical", "Slim", "TKL"],
+        "keysCount": "84",
+        "multimediaKeys": 12,
+        "layout": "ANSI",
+        "layoutPercent": 75,
+        "numpad": false,
+        "angleChange": {
+          "available": true,
+          "positionCount": 2
+        },
+        "connectivity": "Combined",
+        "interfaces": ["Bluetooth 5.1", "USB Type-C"],
+        "backlight": {
+          "available": true,
+          "color": "RGB",
+          "levels": 4
+        },
+        "switches": {
+          "type": "Optical",
+          "title": "Low Profile Keychron Optical",
+          "color": "Brown",
+          "hotSwappable": true
+        },
+        "battery": 1550,
+        "os": ["Windows", "Mac OS", "Android", "iOS"],
+        "frame": "Aluminium",
+        "keycaps": "ABS",
+        "color": "Gray",
+        "weight": 483,
+        "dimensions": {
+          "l": 116,
+          "w": 306,
+          "h": 22
+        },
+        "package": ["1 x Keyboard", "1 x USB-A to USB Type-C Cable", "1 x Keycap Puller", "1 x Switch Puller", "1 x Dust Cover", "1 x User Manual"]
+      }
+    },
+    {
+      "id": 4,
+      "image": "assets/images/k4v2.webp",
+      "manufacturer": "Keychron",
+      "model": "K4 Version 2",
+      "modelDescription": "96% Layot 100 Keys Full-Size Wireless Bluetooth/USB Wired Mechanical Keyboard with White LED Backlit, Gateron Mechanical Brown Switches, Aluminium Frame, Compatible with Mac & Windows",
+      "price": 3190,
+      "details": {
+        "type": ["Full-Size", "Hot Swappable", "Mechanical", "Multimedia"],
+        "keysCount": "100",
+        "multimediaKeys": 12,
+        "layout": "ISO",
+        "layoutPercent": 96,
+        "numpad": true,
+        "angleChange": {
+          "available": true,
+          "positionCount": 2
+        },
+        "connectivity": "Combined",
+        "interfaces": ["Bluetooth 5.1", "USB Type-C"],
+        "backlight": {
+          "available": true,
+          "color": "White",
+          "levels": 4
+        },
+        "switches": {
+          "type": "Mechanical",
+          "title": "Gateron Mechanical",
+          "color": "Brown",
+          "hotSwappable": false
+        },
+        "battery": 4000,
+        "os": ["Windows", "Mac OS", "Android", "iOS"],
+        "frame": "Aluminium",
+        "keycaps": "ABS",
+        "color": "Gray",
+        "weight": 483,
+        "dimensions": {
+          "l": 129,
+          "w": 376,
+          "h": 38
+        },
+        "package": ["1 x Keyboard", "1 x USB-A to USB Type-C Cable", "1 x Keycap Puller", "1 x User Manual"]
+      }
+    },
+    {
+      "id": 5,
+      "image": "assets/images/k3v2.webp",
+      "manufacturer": "Keychron",
+      "model": "K3 Version 2",
+      "modelDescription": "75% Layot 84 Keys Ultra-Slim Wireless Bluetooth/USB Wired Mechanical Keyboard with RGB LED Backlit, Low-Profile Keychron Optical Hot-Swappable Brown Switches, Aluminium Frame, Compatible with Mac & Windows",
+      "price": 2990,
+      "details": {
+        "type": ["Hot Swappable", "Low-Profile", "Multimedia", "Optical", "Slim", "TKL"],
+        "keysCount": "84",
+        "multimediaKeys": 12,
+        "layout": "ANSI",
+        "layoutPercent": 75,
+        "numpad": false,
+        "angleChange": {
+          "available": true,
+          "positionCount": 2
+        },
+        "connectivity": "Combined",
+        "interfaces": ["Bluetooth 5.1", "USB Type-C"],
+        "backlight": {
+          "available": true,
+          "color": "RGB",
+          "levels": 4
+        },
+        "switches": {
+          "type": "Optical",
+          "title": "Low Profile Keychron Optical",
+          "color": "Brown",
+          "hotSwappable": true
+        },
+        "battery": 1550,
+        "os": ["Windows", "Mac OS", "Android", "iOS"],
+        "frame": "Aluminium",
+        "keycaps": "ABS",
+        "color": "Gray",
+        "weight": 483,
+        "dimensions": {
+          "l": 116,
+          "w": 306,
+          "h": 22
+        },
+        "package": ["1 x Keyboard", "1 x USB-A to USB Type-C Cable", "1 x Keycap Puller", "1 x Switch Puller", "1 x Dust Cover", "1 x User Manual"]
+      }
+    },
+    {
+      "id": 6,
+      "image": "assets/images/k4v2.webp",
+      "manufacturer": "Keychron",
+      "model": "K4 Version 2",
+      "modelDescription": "96% Layot 100 Keys Full-Size Wireless Bluetooth/USB Wired Mechanical Keyboard with White LED Backlit, Gateron Mechanical Brown Switches, Aluminium Frame, Compatible with Mac & Windows",
+      "price": 3190,
+      "details": {
+        "type": ["Full-Size", "Hot Swappable", "Mechanical", "Multimedia"],
+        "keysCount": "100",
+        "multimediaKeys": 12,
+        "layout": "ISO",
+        "layoutPercent": 96,
+        "numpad": true,
+        "angleChange": {
+          "available": true,
+          "positionCount": 2
+        },
+        "connectivity": "Combined",
+        "interfaces": ["Bluetooth 5.1", "USB Type-C"],
+        "backlight": {
+          "available": true,
+          "color": "White",
+          "levels": 4
+        },
+        "switches": {
+          "type": "Mechanical",
+          "title": "Gateron Mechanical",
+          "color": "Brown",
+          "hotSwappable": false
+        },
+        "battery": 4000,
+        "os": ["Windows", "Mac OS", "Android", "iOS"],
+        "frame": "Aluminium",
+        "keycaps": "ABS",
+        "color": "Gray",
+        "weight": 483,
+        "dimensions": {
+          "l": 129,
+          "w": 376,
+          "h": 38
+        },
+        "package": ["1 x Keyboard", "1 x USB-A to USB Type-C Cable", "1 x Keycap Puller", "1 x User Manual"]
+      }
+    },
+    {
+      "id": 7,
+      "image": "assets/images/k3v2.webp",
+      "manufacturer": "Keychron",
+      "model": "K3 Version 2",
+      "modelDescription": "75% Layot 84 Keys Ultra-Slim Wireless Bluetooth/USB Wired Mechanical Keyboard with RGB LED Backlit, Low-Profile Keychron Optical Hot-Swappable Brown Switches, Aluminium Frame, Compatible with Mac & Windows",
+      "price": 2990,
+      "details": {
+        "type": ["Hot Swappable", "Low-Profile", "Multimedia", "Optical", "Slim", "TKL"],
+        "keysCount": "84",
+        "multimediaKeys": 12,
+        "layout": "ANSI",
+        "layoutPercent": 75,
+        "numpad": false,
+        "angleChange": {
+          "available": true,
+          "positionCount": 2
+        },
+        "connectivity": "Combined",
+        "interfaces": ["Bluetooth 5.1", "USB Type-C"],
+        "backlight": {
+          "available": true,
+          "color": "RGB",
+          "levels": 4
+        },
+        "switches": {
+          "type": "Optical",
+          "title": "Low Profile Keychron Optical",
+          "color": "Brown",
+          "hotSwappable": true
+        },
+        "battery": 1550,
+        "os": ["Windows", "Mac OS", "Android", "iOS"],
+        "frame": "Aluminium",
+        "keycaps": "ABS",
+        "color": "Gray",
+        "weight": 483,
+        "dimensions": {
+          "l": 116,
+          "w": 306,
+          "h": 22
+        },
+        "package": ["1 x Keyboard", "1 x USB-A to USB Type-C Cable", "1 x Keycap Puller", "1 x Switch Puller", "1 x Dust Cover", "1 x User Manual"]
+      }
+    },
+    {
+      "id": 8,
+      "image": "assets/images/k4v2.webp",
+      "manufacturer": "Keychron",
+      "model": "K4 Version 2",
+      "modelDescription": "96% Layot 100 Keys Full-Size Wireless Bluetooth/USB Wired Mechanical Keyboard with White LED Backlit, Gateron Mechanical Brown Switches, Aluminium Frame, Compatible with Mac & Windows",
+      "price": 3190,
+      "details": {
+        "type": ["Full-Size", "Hot Swappable", "Mechanical", "Multimedia"],
+        "keysCount": "100",
+        "multimediaKeys": 12,
+        "layout": "ISO",
+        "layoutPercent": 96,
+        "numpad": true,
+        "angleChange": {
+          "available": true,
+          "positionCount": 2
+        },
+        "connectivity": "Combined",
+        "interfaces": ["Bluetooth 5.1", "USB Type-C"],
+        "backlight": {
+          "available": true,
+          "color": "White",
+          "levels": 4
+        },
+        "switches": {
+          "type": "Mechanical",
+          "title": "Gateron Mechanical",
+          "color": "Brown",
+          "hotSwappable": false
+        },
+        "battery": 4000,
+        "os": ["Windows", "Mac OS", "Android", "iOS"],
+        "frame": "Aluminium",
+        "keycaps": "ABS",
+        "color": "Gray",
+        "weight": 483,
+        "dimensions": {
+          "l": 129,
+          "w": 376,
+          "h": 38
+        },
+        "package": ["1 x Keyboard", "1 x USB-A to USB Type-C Cable", "1 x Keycap Puller", "1 x User Manual"]
+      }
+    },
+    {
+      "id": 9,
+      "image": "assets/images/k4v2.webp",
+      "manufacturer": "Keychron",
+      "model": "K4 Version 2",
+      "modelDescription": "96% Layot 100 Keys Full-Size Wireless Bluetooth/USB Wired Mechanical Keyboard with White LED Backlit, Gateron Mechanical Brown Switches, Aluminium Frame, Compatible with Mac & Windows",
+      "price": 3190,
+      "details": {
+        "type": ["Full-Size", "Hot Swappable", "Mechanical", "Multimedia"],
+        "keysCount": "100",
+        "multimediaKeys": 12,
+        "layout": "ISO",
+        "layoutPercent": 96,
+        "numpad": true,
+        "angleChange": {
+          "available": true,
+          "positionCount": 2
+        },
+        "connectivity": "Combined",
+        "interfaces": ["Bluetooth 5.1", "USB Type-C"],
+        "backlight": {
+          "available": true,
+          "color": "White",
+          "levels": 4
+        },
+        "switches": {
+          "type": "Mechanical",
+          "title": "Gateron Mechanical",
+          "color": "Brown",
+          "hotSwappable": false
+        },
+        "battery": 4000,
+        "os": ["Windows", "Mac OS", "Android", "iOS"],
+        "frame": "Aluminium",
+        "keycaps": "ABS",
+        "color": "Gray",
+        "weight": 483,
+        "dimensions": {
+          "l": 129,
+          "w": 376,
+          "h": 38
+        },
+        "package": ["1 x Keyboard", "1 x USB-A to USB Type-C Cable", "1 x Keycap Puller", "1 x User Manual"]
+      }
+    },
+    {
+      "id": 10,
+      "image": "assets/images/k4v2.webp",
+      "manufacturer": "Keychron",
+      "model": "K4 Version 2",
+      "modelDescription": "96% Layot 100 Keys Full-Size Wireless Bluetooth/USB Wired Mechanical Keyboard with White LED Backlit, Gateron Mechanical Brown Switches, Aluminium Frame, Compatible with Mac & Windows",
+      "price": 3190,
+      "details": {
+        "type": ["Full-Size", "Hot Swappable", "Mechanical", "Multimedia"],
+        "keysCount": "100",
+        "multimediaKeys": 12,
+        "layout": "ISO",
+        "layoutPercent": 96,
+        "numpad": true,
+        "angleChange": {
+          "available": true,
+          "positionCount": 2
+        },
+        "connectivity": "Combined",
+        "interfaces": ["Bluetooth 5.1", "USB Type-C"],
+        "backlight": {
+          "available": true,
+          "color": "White",
+          "levels": 4
+        },
+        "switches": {
+          "type": "Mechanical",
+          "title": "Gateron Mechanical",
+          "color": "Brown",
+          "hotSwappable": false
+        },
+        "battery": 4000,
+        "os": ["Windows", "Mac OS", "Android", "iOS"],
+        "frame": "Aluminium",
+        "keycaps": "ABS",
+        "color": "Gray",
+        "weight": 483,
+        "dimensions": {
+          "l": 129,
+          "w": 376,
+          "h": 38
+        },
+        "package": ["1 x Keyboard", "1 x USB-A to USB Type-C Cable", "1 x Keycap Puller", "1 x User Manual"]
+      }
+    },
+    {
+      "id": 11,
+      "image": "assets/images/k4v2.webp",
+      "manufacturer": "Keychron",
+      "model": "K4 Version 2",
+      "modelDescription": "96% Layot 100 Keys Full-Size Wireless Bluetooth/USB Wired Mechanical Keyboard with White LED Backlit, Gateron Mechanical Brown Switches, Aluminium Frame, Compatible with Mac & Windows",
+      "price": 3190,
+      "details": {
+        "type": ["Full-Size", "Hot Swappable", "Mechanical", "Multimedia"],
+        "keysCount": "100",
+        "multimediaKeys": 12,
+        "layout": "ISO",
+        "layoutPercent": 96,
+        "numpad": true,
+        "angleChange": {
+          "available": true,
+          "positionCount": 2
+        },
+        "connectivity": "Combined",
+        "interfaces": ["Bluetooth 5.1", "USB Type-C"],
+        "backlight": {
+          "available": true,
+          "color": "White",
+          "levels": 4
+        },
+        "switches": {
+          "type": "Mechanical",
+          "title": "Gateron Mechanical",
+          "color": "Brown",
+          "hotSwappable": false
+        },
+        "battery": 4000,
+        "os": ["Windows", "Mac OS", "Android", "iOS"],
+        "frame": "Aluminium",
+        "keycaps": "ABS",
+        "color": "Gray",
+        "weight": 483,
+        "dimensions": {
+          "l": 129,
+          "w": 376,
+          "h": 38
+        },
+        "package": ["1 x Keyboard", "1 x USB-A to USB Type-C Cable", "1 x Keycap Puller", "1 x User Manual"]
+      }
+    },
+    {
+      "id": 12,
+      "image": "assets/images/k4v2.webp",
+      "manufacturer": "Keychron",
+      "model": "K4 Version 2",
+      "modelDescription": "96% Layot 100 Keys Full-Size Wireless Bluetooth/USB Wired Mechanical Keyboard with White LED Backlit, Gateron Mechanical Brown Switches, Aluminium Frame, Compatible with Mac & Windows",
+      "price": 3190,
+      "details": {
+        "type": ["Full-Size", "Hot Swappable", "Mechanical", "Multimedia"],
+        "keysCount": "100",
+        "multimediaKeys": 12,
+        "layout": "ISO",
+        "layoutPercent": 96,
+        "numpad": true,
+        "angleChange": {
+          "available": true,
+          "positionCount": 2
+        },
+        "connectivity": "Combined",
+        "interfaces": ["Bluetooth 5.1", "USB Type-C"],
+        "backlight": {
+          "available": true,
+          "color": "White",
+          "levels": 4
+        },
+        "switches": {
+          "type": "Mechanical",
+          "title": "Gateron Mechanical",
+          "color": "Brown",
+          "hotSwappable": false
+        },
+        "battery": 4000,
+        "os": ["Windows", "Mac OS", "Android", "iOS"],
+        "frame": "Aluminium",
+        "keycaps": "ABS",
+        "color": "Gray",
+        "weight": 483,
+        "dimensions": {
+          "l": 129,
+          "w": 376,
+          "h": 38
+        },
+        "package": ["1 x Keyboard", "1 x USB-A to USB Type-C Cable", "1 x Keycap Puller", "1 x User Manual"]
+      }
+    },
+    {
+      "id": 13,
+      "image": "assets/images/k4v2.webp",
+      "manufacturer": "Keychron",
+      "model": "K4 Version 2",
+      "modelDescription": "96% Layot 100 Keys Full-Size Wireless Bluetooth/USB Wired Mechanical Keyboard with White LED Backlit, Gateron Mechanical Brown Switches, Aluminium Frame, Compatible with Mac & Windows",
+      "price": 3190,
+      "details": {
+        "type": ["Full-Size", "Hot Swappable", "Mechanical", "Multimedia"],
+        "keysCount": "100",
+        "multimediaKeys": 12,
+        "layout": "ISO",
+        "layoutPercent": 96,
+        "numpad": true,
+        "angleChange": {
+          "available": true,
+          "positionCount": 2
+        },
+        "connectivity": "Combined",
+        "interfaces": ["Bluetooth 5.1", "USB Type-C"],
+        "backlight": {
+          "available": true,
+          "color": "White",
+          "levels": 4
+        },
+        "switches": {
+          "type": "Mechanical",
+          "title": "Gateron Mechanical",
+          "color": "Brown",
+          "hotSwappable": false
+        },
+        "battery": 4000,
+        "os": ["Windows", "Mac OS", "Android", "iOS"],
+        "frame": "Aluminium",
+        "keycaps": "ABS",
+        "color": "Gray",
+        "weight": 483,
+        "dimensions": {
+          "l": 129,
+          "w": 376,
+          "h": 38
+        },
+        "package": ["1 x Keyboard", "1 x USB-A to USB Type-C Cable", "1 x Keycap Puller", "1 x User Manual"]
+      }
+    },
+    {
+      "id": 14,
+      "image": "assets/images/k4v2.webp",
+      "manufacturer": "Keychron",
+      "model": "K4 Version 2",
+      "modelDescription": "96% Layot 100 Keys Full-Size Wireless Bluetooth/USB Wired Mechanical Keyboard with White LED Backlit, Gateron Mechanical Brown Switches, Aluminium Frame, Compatible with Mac & Windows",
+      "price": 3190,
+      "details": {
+        "type": ["Full-Size", "Hot Swappable", "Mechanical", "Multimedia"],
+        "keysCount": "100",
+        "multimediaKeys": 12,
+        "layout": "ISO",
+        "layoutPercent": 96,
+        "numpad": true,
+        "angleChange": {
+          "available": true,
+          "positionCount": 2
+        },
+        "connectivity": "Combined",
+        "interfaces": ["Bluetooth 5.1", "USB Type-C"],
+        "backlight": {
+          "available": true,
+          "color": "White",
+          "levels": 4
+        },
+        "switches": {
+          "type": "Mechanical",
+          "title": "Gateron Mechanical",
+          "color": "Brown",
+          "hotSwappable": false
+        },
+        "battery": 4000,
+        "os": ["Windows", "Mac OS", "Android", "iOS"],
+        "frame": "Aluminium",
+        "keycaps": "ABS",
+        "color": "Gray",
+        "weight": 483,
+        "dimensions": {
+          "l": 129,
+          "w": 376,
+          "h": 38
+        },
+        "package": ["1 x Keyboard", "1 x USB-A to USB Type-C Cable", "1 x Keycap Puller", "1 x User Manual"]
+      }
+    },
+    {
+      "id": 15,
+      "image": "assets/images/k4v2.webp",
+      "manufacturer": "Keychron",
+      "model": "K4 Version 2",
+      "modelDescription": "96% Layot 100 Keys Full-Size Wireless Bluetooth/USB Wired Mechanical Keyboard with White LED Backlit, Gateron Mechanical Brown Switches, Aluminium Frame, Compatible with Mac & Windows",
+      "price": 3190,
+      "details": {
+        "type": ["Full-Size", "Hot Swappable", "Mechanical", "Multimedia"],
+        "keysCount": "100",
+        "multimediaKeys": 12,
+        "layout": "ISO",
+        "layoutPercent": 96,
+        "numpad": true,
+        "angleChange": {
+          "available": true,
+          "positionCount": 2
+        },
+        "connectivity": "Combined",
+        "interfaces": ["Bluetooth 5.1", "USB Type-C"],
+        "backlight": {
+          "available": true,
+          "color": "White",
+          "levels": 4
+        },
+        "switches": {
+          "type": "Mechanical",
+          "title": "Gateron Mechanical",
+          "color": "Brown",
+          "hotSwappable": false
+        },
+        "battery": 4000,
+        "os": ["Windows", "Mac OS", "Android", "iOS"],
+        "frame": "Aluminium",
+        "keycaps": "ABS",
+        "color": "Gray",
+        "weight": 483,
+        "dimensions": {
+          "l": 129,
+          "w": 376,
+          "h": 38
+        },
+        "package": ["1 x Keyboard", "1 x USB-A to USB Type-C Cable", "1 x Keycap Puller", "1 x User Manual"]
+      }
+    },
+    {
+      "id": 16,
+      "image": "assets/images/k4v2.webp",
+      "manufacturer": "Keychron",
+      "model": "K4 Version 2",
+      "modelDescription": "96% Layot 100 Keys Full-Size Wireless Bluetooth/USB Wired Mechanical Keyboard with White LED Backlit, Gateron Mechanical Brown Switches, Aluminium Frame, Compatible with Mac & Windows",
+      "price": 3190,
+      "details": {
+        "type": ["Full-Size", "Hot Swappable", "Mechanical", "Multimedia"],
+        "keysCount": "100",
+        "multimediaKeys": 12,
+        "layout": "ISO",
+        "layoutPercent": 96,
+        "numpad": true,
+        "angleChange": {
+          "available": true,
+          "positionCount": 2
+        },
+        "connectivity": "Combined",
+        "interfaces": ["Bluetooth 5.1", "USB Type-C"],
+        "backlight": {
+          "available": true,
+          "color": "White",
+          "levels": 4
+        },
+        "switches": {
+          "type": "Mechanical",
+          "title": "Gateron Mechanical",
+          "color": "Brown",
+          "hotSwappable": false
+        },
+        "battery": 4000,
+        "os": ["Windows", "Mac OS", "Android", "iOS"],
+        "frame": "Aluminium",
+        "keycaps": "ABS",
+        "color": "Gray",
+        "weight": 483,
+        "dimensions": {
+          "l": 129,
+          "w": 376,
+          "h": 38
+        },
+        "package": ["1 x Keyboard", "1 x USB-A to USB Type-C Cable", "1 x Keycap Puller", "1 x User Manual"]
+      }
+    }
+  ],
+  "users": [
+    {
+      "avatar": "https://reqres.in/img/faces/1-image.jpg",
+      "email": "user1@mail.to",
+      "first_name": "User",
+      "id": 1,
+      "last_name": "Firstton",
+      "password": "$2a$12$J.1SeFjSno/GiGeY2BzKm.TX92JJh/u2gtWJawlTyJHwtaLmrrxsu",
+      "username": "User_1"
+    },
+    {
+      "avatar": "https://reqres.in/img/faces/2-image.jpg",
+      "email": "user2@mail.to",
+      "first_name": "User",
+      "id": 2,
+      "last_name": "Secondton",
+      "password": "$2a$12$fysdEnY.3AMBkdIX/6rxZev7hz08zleykcR0mvFPoSLSQDE88lORC",
+      "username": "User_2"
+    },
+    {
+      "avatar": "https://reqres.in/img/faces/3-image.jpg",
+      "email": "user3@mail.to",
+      "first_name": "User",
+      "id": 3,
+      "last_name": "Thirdton",
+      "password": "$2a$12$bsIT/LIXuWgbVz6FZeM8gOwdF.HzGciDAgeqWp80vwk85mXUslVBK",
+      "username": "User_3"
+    },
+    {
+      "avatar": "https://reqres.in/img/faces/4-image.jpg",
+      "email": "user4@mail.to",
+      "first_name": "User",
+      "id": 4,
+      "last_name": "Fourhton",
+      "password": "$2a$12$J.1SeFjSno/GiGeY2BzKm.TX92JJh/u2gtWJawlTyJHwtaLmrrxsu",
+      "username": "User_4"
+    },
+    {
+      "avatar": "https://reqres.in/img/faces/5-image.jpg",
+      "email": "user5@mail.to",
+      "first_name": "User",
+      "id": 5,
+      "last_name": "Fifthton",
+      "password": "$2a$12$fysdEnY.3AMBkdIX/6rxZev7hz08zleykcR0mvFPoSLSQDE88lORC",
+      "username": "User_5"
+    },
+    {
+      "avatar": "https://reqres.in/img/faces/6-image.jpg",
+      "email": "user6@mail.to",
+      "first_name": "User",
+      "id": 6,
+      "last_name": "Sixthton",
+      "password": "$2a$12$bsIT/LIXuWgbVz6FZeM8gOwdF.HzGciDAgeqWp80vwk85mXUslVBK",
+      "username": "User_6"
+    },
+    {
+      "avatar": "https://reqres.in/img/faces/7-image.jpg",
+      "email": "user7@mail.to",
+      "first_name": "User",
+      "id": 7,
+      "last_name": "Seventhton",
+      "password": "$2a$12$J.1SeFjSno/GiGeY2BzKm.TX92JJh/u2gtWJawlTyJHwtaLmrrxsu",
+      "username": "User_7"
+    },
+    {
+      "avatar": "https://reqres.in/img/faces/8-image.jpg",
+      "email": "user8@mail.to",
+      "first_name": "User",
+      "id": 8,
+      "last_name": "Eighthton",
+      "password": "$2a$12$fysdEnY.3AMBkdIX/6rxZev7hz08zleykcR0mvFPoSLSQDE88lORC",
+      "username": "User_8"
+    },
+    {
+      "avatar": "https://reqres.in/img/faces/9-image.jpg",
+      "email": "user9@mail.to",
+      "first_name": "User",
+      "id": 9,
+      "last_name": "Ninethton",
+      "password": "$2a$12$bsIT/LIXuWgbVz6FZeM8gOwdF.HzGciDAgeqWp80vwk85mXUslVBK",
+      "username": "User_9"
+    }
+  ]
+}

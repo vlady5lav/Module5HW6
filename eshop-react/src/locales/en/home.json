@@ -1,0 +1,11 @@
+{
+  "tabs": {
+    "cart": "Cart",
+    "signIn": "Sign In",
+    "signUp": "Sign Up",
+    "product": "Product",
+    "products": "Products List",
+    "user": "User",
+    "users": "Users List"
+  }
+}
